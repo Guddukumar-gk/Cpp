@@ -1,0 +1,1 @@
+{"name":"Local: Triangle","url":"c:\\Users\\hp\\Desktop\\collage\\C++\\pattern\\Triangle.cpp","tests":[{"id":1630262702373,"input":"5","output":"Enter the triangle size \n*\n**\n***\n****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\collage\\C++\\pattern\\Triangle.cpp","group":"local","local":true}
